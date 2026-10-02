@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Omar Soudani 👋
 
-<!--
-**Omar1Dev/Omar1Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's Student in Computer Science & Multimedia
+🤖 Interested in Artificial Intelligence and Reinforcement Learning
+💻 Interested in Software Development and Intelligent Systems
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently pursuing a Master's degree in Computer Science and Multimedia.
+
+My main area of interest is **Reinforcement Learning**, and I'm starting to build my knowledge and practical experience in Artificial Intelligence and Intelligent Systems.
+
+I'm using GitHub to document my learning journey, experiments, research projects, and future work.
+
+## 🎯 Current Focus
+
+* 🤖 Reinforcement Learning
+* 🧠 Artificial Intelligence
+* 📚 Machine Learning
+* 💻 Python & Software Development
+* 🔬 Research & Experimentation
+
+## 🚀 Projects
+
+*Coming soon — currently building my first projects.*
+
+## 📈 Learning Journey
+
+I'll use this profile to share what I learn and build throughout my Master's studies.
+
+---
+
+⭐ Feel free to follow my journey!
+
