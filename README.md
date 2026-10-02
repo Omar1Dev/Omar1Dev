@@ -30,7 +30,7 @@ I'll use this profile to share what I learn and build throughout my Master's stu
 
 ## Connect with me
 
-- LinkedIn: [Omar Soudani](linkedin.com/in/omar-soudani-767312440)
+- LinkedIn: [Omar Soudani](https://www.linkedin.com/in/omar-soudani-767312440/)
 - GitHub: [Omar1Dev](https://github.com/Omar1Dev)
 - Email: [omar.soudani.dev@gmail.com](mailto:omar.soudani.dev@gmail.com)
 
