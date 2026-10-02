@@ -29,6 +29,12 @@ I'm using GitHub to document my learning journey, experiments, research projects
 I'll use this profile to share what I learn and build throughout my Master's studies.
 
 ---
+## Connect with me
 
+- LinkedIn: [Omar Soudani](YOUR_LINKEDIN_URL)
+- GitHub: [Omar1Dev](https://github.com/Omar1Dev)
+- Email: [omar.soudani.dev@gmail.com](mailto:omar.soudani.dev@gmail.com)
+
+  
 ⭐ Feel free to follow my journey!
 
